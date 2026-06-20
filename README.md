@@ -54,6 +54,50 @@ Sharpen your skills, reduce interview anxiety, and boost your confidence before 
 **Networking : Join our vibrant Discord community to connect, collaborate, and grow with freshers and professionals alike. 
 Watch our intro and career tips on YouTube — all designed to keep you informed, inspired, and connected.
 
+## MY ROLE AND CONTRIBUTIONS
+
+
+
+
+
+
+
+## FUTURE SCOPE
+While the primary portal is live for freshers, employers and mentors, we have already conceptualized and built the back and frontend prototypes for the Domestic Worker Ecosystem, which are undergoing some polishing and will be available for the users soon.
+** Geospatial Job Mapping : An interactive, map based interface that locates the user and displays nearby, verified job openingsto minimize travel barriers.
+** Multilingual Helpdesk and Automated Call Flow : A built-in helpline oprating in various regional languages to guide users through automated IVR.
+** Specialised Housekeeper Tier : A comprehensive menu tailored for housekeepers that includes - 
+   1.  Job Search Assistance
+   2.  Salary Negotiation
+   3.  Workplace Issue Resolution
+   4.  Training and Upskilling
+
+This feature will support all blue collar workers like Housekeeper, Nanny, Cook, Driver, Elderly Care or any Other Domestic Worker and also any Employer (Seeking Domestic Staff).
+
+## LICENSE 
+Copyright © 2026. All rights reserved. This project is proprietary. No part of this repository may be reproduced, distributed, or modified without explicit permission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
