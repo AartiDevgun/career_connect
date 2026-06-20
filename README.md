@@ -26,7 +26,7 @@ Voice and IVR services
 Utilizing Google STT (speech to text), Twillo for telephony, and IBM Tone Analyzer for sophiticated speech and confidence scoring.
 
 Security Focus
-OSWAP top 10 mitigation, Defensive Coding, INput Auditing.
+OSWAP top 10 mitigation, Defensive Coding, Input Auditing.
 
 ## KEY FEATURES
 ** Tri Interference System : Separate, secure login and dashboards experiences for Freshers, Recruiters and Domestic. Create your account or log in to access personalized features tailored for students, domestic workers, and recruiters.
