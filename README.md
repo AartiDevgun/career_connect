@@ -1,4 +1,4 @@
-# CAREER CONNECT
+# CAREER CONNECT 🌐💙✨
 ## Job Portal for Freshers and Recruiters
 A comprehensive web application developed to streamline the hiring ecosystem for freshers. The platform features tailored dashboards for candidates to find their perfect job role and for recruiters to manage job postings and applicants.
 
