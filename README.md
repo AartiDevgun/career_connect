@@ -31,18 +31,26 @@ OSWAP top 10 mitigation, Defensive Coding, INput Auditing.
 ## KEY FEATURES
 ** Tri Interference System : Separate, secure login and dashboards experiences for Freshers, Recruiters and Domestic. Create your account or log in to access personalized features tailored for students, domestic workers, and recruiters.
 Upload a profile picture and build your unique profile to connect with the right opportunities and talent.
+
 ** Testimmonials : Collecting honest feedback and real challenges faced by freshers during their job hunt to improve our platform.
 Data-driven insights help us understand user pain points and tailor solutions to support your career journey better. 
+
 ** Homepage : Our job portal is designed specifically for freshers, offering a user-friendly homepage with a powerful job search tool, latest job openings, and quick navigation links. It also features a unique career simulation roadmap to help users plan and prepare for their professional journey.
+
 ** Browse Jobs : Browse fresh, verified job openings filtered by location, industry, salary, experience, and more — tailored for freshers and early professionals.
 Save jobs for later, read full descriptions, avoid spam posts, and apply directly to kickstart your career with confidence.
+
 ** Career Guidance : Access exclusive career-building tools like interview experience sessions, scholarships, webinars, and virtual job fairs — all in one place. Participate in competitions, enroll in career-focused courses, and gain real-world guidance to confidently navigate your job journey.
+
 ** AI Resume Builder : nswer a few simple questions and let our AI craft a polished, tailored resume that showcases your strengths. 
 Designed especially for fresh graduates, this tool makes resume-building easy, fast, and effective — no experience needed. 
+
 ** Aptitude Game : Put your wizarding knowledge and brainpower to the test in this Harry Potter-inspired aptitude adventure.
 Answer clever challenges, unlock secrets, and earn your magic stripes one puzzle at a time.
+
 ** Mock Interview : Practice real interview scenarios powered by Zapier’s automation and AI to get instant feedback.
 Sharpen your skills, reduce interview anxiety, and boost your confidence before the big day.
+
 **Networking : Join our vibrant Discord community to connect, collaborate, and grow with freshers and professionals alike. 
 Watch our intro and career tips on YouTube — all designed to keep you informed, inspired, and connected.
 
