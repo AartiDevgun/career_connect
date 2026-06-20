@@ -55,12 +55,12 @@ Sharpen your skills, reduce interview anxiety, and boost your confidence before 
 Watch our intro and career tips on YouTube — all designed to keep you informed, inspired, and connected.
 
 ## MY ROLE AND CONTRIBUTIONS
+I served as the **Product Lead & System Architect**, driving the feature roadmap and user security logic while collaborating closely with the development team:
 
-
-
-
-
-
+* **Core Feature Conception:** Personally ideated and proposed the platform's social impact features, including the proximity-based job map, multi-language helpline call flows, and the specialized housekeeper tier.
+* **Security Logic Design:** Conceived the **Spam Reporting Mechanism** in the "Browse Jobs" section to actively protect job-seeking freshers from fraudulent listings and recruitment scams.
+* **System Workflows:** Mapped out the user permission layers and data flows, helping structure how the backend would logically separate candidate data from recruiter data.
+* **Project Management:** Coordinated our team's timeline and feature priorities, ensuring we translated these ideas into a working prototype before the hackathon deadline.
 
 ## FUTURE SCOPE
 While the primary portal is live for freshers, employers and mentors, we have already conceptualized and built the back and frontend prototypes for the Domestic Worker Ecosystem, which are undergoing some polishing and will be available for the users soon.
