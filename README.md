@@ -64,8 +64,11 @@ I served as the **Product Lead & System Architect**, driving the feature roadmap
 
 ## FUTURE SCOPE
 While the primary portal is live for freshers, employers and mentors, we have already conceptualized and built the back and frontend prototypes for the Domestic Worker Ecosystem, which are undergoing some polishing and will be available for the users soon.
+
 ** Geospatial Job Mapping : An interactive, map based interface that locates the user and displays nearby, verified job openingsto minimize travel barriers.
+
 ** Multilingual Helpdesk and Automated Call Flow : A built-in helpline oprating in various regional languages to guide users through automated IVR.
+
 ** Specialised Housekeeper Tier : A comprehensive menu tailored for housekeepers that includes - 
    1.  Job Search Assistance
    2.  Salary Negotiation
