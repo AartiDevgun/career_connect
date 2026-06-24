@@ -32,7 +32,7 @@ OSWAP top 10 mitigation, Defensive Coding, Input Auditing.
 ** Tri Interference System : Separate, secure login and dashboards experiences for Freshers, Recruiters and Domestic. Create your account or log in to access personalized features tailored for students, domestic workers, and recruiters.
 Upload a profile picture and build your unique profile to connect with the right opportunities and talent.
 
-** Testimmonials : Collecting honest feedback and real challenges faced by freshers during their job hunt to improve our platform.
+** Testimonials : Collecting honest feedback and real challenges faced by freshers during their job hunt to improve our platform.
 Data-driven insights help us understand user pain points and tailor solutions to support your career journey better. 
 
 ** Homepage : Our job portal is designed specifically for freshers, offering a user-friendly homepage with a powerful job search tool, latest job openings, and quick navigation links. It also features a unique career simulation roadmap to help users plan and prepare for their professional journey.
